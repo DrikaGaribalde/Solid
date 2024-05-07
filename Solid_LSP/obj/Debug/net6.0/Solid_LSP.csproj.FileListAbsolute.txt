@@ -1,0 +1,14 @@
+C:\Cursos\EstudoSolid\Solid_LSP\bin\Debug\net6.0\Solid_LSP.exe
+C:\Cursos\EstudoSolid\Solid_LSP\bin\Debug\net6.0\Solid_LSP.deps.json
+C:\Cursos\EstudoSolid\Solid_LSP\bin\Debug\net6.0\Solid_LSP.runtimeconfig.json
+C:\Cursos\EstudoSolid\Solid_LSP\bin\Debug\net6.0\Solid_LSP.dll
+C:\Cursos\EstudoSolid\Solid_LSP\bin\Debug\net6.0\Solid_LSP.pdb
+C:\Cursos\EstudoSolid\Solid_LSP\obj\Debug\net6.0\Solid_LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\EstudoSolid\Solid_LSP\obj\Debug\net6.0\Solid_LSP.AssemblyInfoInputs.cache
+C:\Cursos\EstudoSolid\Solid_LSP\obj\Debug\net6.0\Solid_LSP.AssemblyInfo.cs
+C:\Cursos\EstudoSolid\Solid_LSP\obj\Debug\net6.0\Solid_LSP.csproj.CoreCompileInputs.cache
+C:\Cursos\EstudoSolid\Solid_LSP\obj\Debug\net6.0\Solid_LSP.dll
+C:\Cursos\EstudoSolid\Solid_LSP\obj\Debug\net6.0\refint\Solid_LSP.dll
+C:\Cursos\EstudoSolid\Solid_LSP\obj\Debug\net6.0\Solid_LSP.pdb
+C:\Cursos\EstudoSolid\Solid_LSP\obj\Debug\net6.0\Solid_LSP.genruntimeconfig.cache
+C:\Cursos\EstudoSolid\Solid_LSP\obj\Debug\net6.0\ref\Solid_LSP.dll
