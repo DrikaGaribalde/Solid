@@ -14,13 +14,13 @@ namespace Solid_OCP
             if (tipoConta == TipoConta.Poupanca)
             {
                 //Débito em conta poupança
-                //Valida Aniverário da conta
+                //Valida Aniversário da conta
             }
         }
     }
 }
 
-///No exemplo a classe DebitoConta, contém o métoto que é responsável para realizar
+///No exemplo a classe DebitoConta, contém o método que é responsável para realizar
 ///débitos das contas Corrente e Poupança, através do Enum "TipoConta"
 ///Quanto mais regras forem criadas, mais vai ficar difícil a manutenção,
 ///como resolver?

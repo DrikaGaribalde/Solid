@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\EstudoSolid\\Solid_OCP\\Solid_OCP.csproj": {}
+    "C:\\Solid\\Solid_OCP\\Solid_OCP.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\EstudoSolid\\Solid_OCP\\Solid_OCP.csproj": {
+    "C:\\Solid\\Solid_OCP\\Solid_OCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\EstudoSolid\\Solid_OCP\\Solid_OCP.csproj",
+        "projectUniqueName": "C:\\Solid\\Solid_OCP\\Solid_OCP.csproj",
         "projectName": "Solid_OCP",
-        "projectPath": "C:\\Cursos\\EstudoSolid\\Solid_OCP\\Solid_OCP.csproj",
+        "projectPath": "C:\\Solid\\Solid_OCP\\Solid_OCP.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\EstudoSolid\\Solid_OCP\\obj\\",
+        "outputPath": "C:\\Solid\\Solid_OCP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
